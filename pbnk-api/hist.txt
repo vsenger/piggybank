@@ -1,0 +1,94 @@
+    1  /Library/Application\ Support/Amazon/ACME.app/Contents/MacOS/ACME ; exit;
+    2  cd code/
+    3  ls
+    4  git clone https://github.com/vsenger/Playground4AWS
+    5  clear
+    6  cd code
+    7  cd
+    8  cd code/
+    9  ls
+   10  git clone https://github.com/aws/aws-iot-device-sdk-java
+   11  cd code
+   12  cd
+   13  clear
+   14  cd code/
+   15  ls
+   16  curl -s "https://get.sdkman.io" | bash 
+   17  sdk list java
+   18  /Users/vsenger/.sdkman/bin/sdkman-init.sh
+   19  exit
+   20  sdk java list
+   21  sdk list
+   22  sdk list java
+   23  sdk install java 17.0.3.6.1-amzn
+   24  java -version
+   25  java -version
+   26  pwd
+   27  cd code
+   28  git clone https://github.com/caravanacloud/piggybank
+   29  clear
+   30  ls
+   31  cd piggybank/
+   32  sdk install quarkus
+   33  sdk install maven
+   34  clear
+   35  mvn
+   36  clear
+   37  ls
+   38  clear
+   39  clear
+   40  /bin/bash -c "$(curl -fsSL 'https://code-with-me.global.jetbrains.com/YQGNvqj9fRV0XveKvNYUpA/cwm-client-launcher-mac.sh'"?arch_type=$(uname -m)")"
+   41  docker ps
+   42  clear
+   43  ls
+   44  docker run hello-world
+   45  docker ps
+   46  docker run hello-world
+   47  /Users/vsenger/code/piggybank git pull
+   48  ls
+   49  git status
+   50  git pull
+   51  ls
+   52  cd ..
+   53  ls
+   54  rm -rf piggybank/
+   55  git clone https://github.com/caravanacloud/piggybank
+   56  cd piggybank/
+   57  ls
+   58  clear
+   59  ls
+   60  clear
+   61  mvn quarkus:dev
+   62  ls
+   63  cd pbnk-api/
+   64  ls
+   65  mvn quarkus:dev
+   66  mvn quarkus:prod
+   67  mvn quarkus:prod
+   68  mvn quarkus:dev
+   69  mvn quarkus:dev
+   70  mvn quarkus:dev
+   71  mvn quarkus:dev
+   72  mvn quarkus:dev
+   73  mvn quarkus:dev
+   74  mvn quarkus:dev
+   75  mvn quarkus:dev
+   76  mvn quarkus:dev
+   77  mvn quarkus:dev
+   78  mvn quarkus:dev
+   79  mvn quarkus:dev
+   80  mvn quarkus:dev
+   81  mvn quarkus:dev
+   82  mvn quarkus:dev
+   83  mvn quarkus:dev
+   84  mvn quarkus:dev
+   85  history | more
+   86  mvn quarkus:dev
+   87  mvn quarkus:dev
+   88  mvn quarkus:dev
+   89  mvn quarkus:dev
+   90  mvn quarkus:dev
+   91  mvn quarkus:dev
+   92  mvn quarkus:dev
+   93  mvn quarkus:dev
+   94  history > hist.txt

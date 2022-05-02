@@ -1,0 +1,214 @@
+    1  /Library/Application\ Support/Amazon/ACME.app/Contents/MacOS/ACME ; exit;
+    2  cd code/
+    3  ls
+    4  git clone https://github.com/vsenger/Playground4AWS
+    5  clear
+    6  cd code
+    7  cd
+    8  cd code/
+    9  ls
+   10  git clone https://github.com/aws/aws-iot-device-sdk-java
+   11  cd code
+   12  cd
+   13  clear
+   14  cd code/
+   15  ls
+   16  curl -s "https://get.sdkman.io" | bash 
+   17  sdk list java
+   18  /Users/vsenger/.sdkman/bin/sdkman-init.sh
+   19  exit
+   20  sdk java list
+   21  sdk list
+   22  sdk list java
+   23  sdk install java 17.0.3.6.1-amzn
+   24  java -version
+   25  java -version
+   26  pwd
+   27  cd code
+   28  git clone https://github.com/caravanacloud/piggybank
+   29  clear
+   30  ls
+   31  cd piggybank/
+   32  sdk install quarkus
+   33  sdk install maven
+   34  clear
+   35  mvn
+   36  clear
+   37  ls
+   38  clear
+   39  clear
+   40  /bin/bash -c "$(curl -fsSL 'https://code-with-me.global.jetbrains.com/YQGNvqj9fRV0XveKvNYUpA/cwm-client-launcher-mac.sh'"?arch_type=$(uname -m)")"
+   41  docker ps
+   42  clear
+   43  ls
+   44  docker run hello-world
+   45  docker ps
+   46  docker run hello-world
+   47  /Users/vsenger/code/piggybank git pull
+   48  ls
+   49  git status
+   50  git pull
+   51  ls
+   52  cd ..
+   53  ls
+   54  rm -rf piggybank/
+   55  git clone https://github.com/caravanacloud/piggybank
+   56  cd piggybank/
+   57  ls
+   58  clear
+   59  ls
+   60  clear
+   61  mvn quarkus:dev
+   62  ls
+   63  cd pbnk-api/
+   64  ls
+   65  mvn quarkus:dev
+   66  mvn quarkus:prod
+   67  mvn quarkus:prod
+   68  mvn quarkus:dev
+   69  mvn quarkus:dev
+   70  mvn quarkus:dev
+   71  mvn quarkus:dev
+   72  mvn quarkus:dev
+   73  mvn quarkus:dev
+   74  mvn quarkus:dev
+   75  mvn quarkus:dev
+   76  mvn quarkus:dev
+   77  mvn quarkus:dev
+   78  mvn quarkus:dev
+   79  mvn quarkus:dev
+   80  mvn quarkus:dev
+   81  mvn quarkus:dev
+   82  mvn quarkus:dev
+   83  mvn quarkus:dev
+   84  mvn quarkus:dev
+   85  cd
+   86  cd code/
+   87  git clone https://github.com/Homebrew/brew homebrew
+   88  eval "$(homebrew/bin/brew shellenv)"
+   89  brew update --force --quiet
+   90  chmod -R go-w "$(brew --prefix)/share/zsh"
+   91  brew
+   92  clear
+   93  brew install gh
+   94  brew install direnv
+   95  clear
+   96  ckear
+   97  cler
+   98  clear
+   99  ls
+  100  cd 
+  101  cd code
+  102  vi .envrc
+  103  cd ..
+  104  cd code
+  105  more .envrc 
+  106  echo $PWD
+  107  echo $PWD1
+  108  echo $PWD
+  109  vi .envrc
+  110  vi .envrc
+  111  cd ..
+  112  cd code
+  113  echo $PWD
+  114  echo $PWD1
+  115  vi .envrc
+  116  cd ..
+  117  cd code
+  118  echo $PWD1
+  119  echo $PWD
+  120  vi .envrc
+  121  echo $PATH
+  122  set | more
+  123  brew install direnv
+  124  clear
+  125  exit
+  126  clear
+  127  sudo su
+  128  hostname
+  129  cd code
+  130  cd Playground4AWS/
+  131  ls
+  132  git add *
+  133  git add *
+  134  git status
+  135  git commit -m "DIY device"
+  136  git push
+  137  git push
+  138  git push
+  139  git push
+  140  git push
+  141  git push
+  142  git push
+  143  cd
+  144  ls
+  145  cd code/
+  146  ls
+  147  cd piggybank/
+  148  ls
+  149  git commit -m "week 1 progress"
+  150  git push
+  151  git commit -m "week 1 progress"
+  152  git push
+  153  git commit -m "week 1 progress"
+  154  git add *
+  155  git commit -m "week 1 progress"
+  156  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  157  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  158  clear
+  159  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  160  git commit -m "week 1 progress"
+  161  git add *
+  162  git add *
+  163  git commit -m "week 1 progress"
+  164  git push
+  165  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  166  xcode-select --install
+  167  cd code
+  168  ls
+  169  echo $PWD1
+  170  more .envrc 
+  171  clear
+  172  pwd
+  173  ls
+  174  cd piggybank/
+  175  ls
+  176  git pull
+  177  clear
+  178  ls
+  179  clear
+  180  cls
+  181  ls
+  182  cd pbnk-api/
+  183  ls
+  184  docker build . --nocache
+  185  docker build . --no-cache
+  186  docker build . --no-cache
+  187  docker build . --no-cache
+  188  docker build . --no-cache
+  189  docker build . --no-cache
+  190  ls -l .dockerignore 
+  191  more .dockerignore 
+  192  ls
+  193  ls -l .dockerignore 
+  194  git pull
+  195  git pull
+  196  docker build . --no-cache
+  197  docker login
+  198  docker build --no-cache --progress=plain  . -t piggybank:latest
+  199  git pull
+  200  docker build --no-cache --progress=plain  . -t piggybank:latest
+  201  docker build --no-cache --progress=plain  . -t vsengerjava/piggybank:latest
+  202  clear
+  203  docker push  -t vsengerjava/piggybank:latest
+  204  docker push vsengerjava/piggybank:latest
+  205  docker run -ti -eQUARKUS_DATASOURCE_USERNAME=root -eQUARKUS_DATASOURCE_PASSWORD=Masterkey123 -eQUARKUS_DATASOURCE_JDBC_URL="jdbc:mysql://192.168.7.246:13371/default" -p8080:8080  jfaerman/piggybank:latest
+  206  docker run -ti -eQUARKUS_DATASOURCE_USERNAME=root -eQUARKUS_DATASOURCE_PASSWORD=Masterkey123 -eQUARKUS_DATASOURCE_JDBC_URL="jdbc:mysql://192.168.7.246:13371/default" -p8080:8080  vsengerjava/piggybank:latest
+  207  git pull
+  208  git pull
+  209  clear
+  210  git pull
+  211  ifconfig
+  212  quarkus:dev
+  213  mvn quarkus:dev
+  214  history > week2_vsenger.txt
